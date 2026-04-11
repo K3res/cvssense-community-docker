@@ -15,15 +15,18 @@ While this version is free to use, a **Professional Edition** is currently in de
 
 ---
 
-## 📊 Feature Roadmap: Community vs. Professional
+## 📊 Feature Comparison: Community vs. Professional
 
-| Feature | Community Edition (Current) | Professional Edition (Upcoming) |
+| Feature | 🟢 Community Edition (Current) | 🔵 Professional Edition (Upcoming) |
 | :--- | :--- | :--- |
-| **Core Analysis** | Standard CVSS v3.1/v4.0 calculation. | Advanced multi-vector assessment. |
-| **Workflow** | [Describe specific Free feature here] | [Describe specific Pro feature here] |
-| **Data Export** | Basic local results. | Professional PDF/JSON reporting. |
-| **Integration** | Standalone local environment. | API & CI/CD pipeline integration. |
-| **Support** | Community-based. | Dedicated technical support. |
+| **Primary Goal** | Trial & Basic Assessment | Full Lifecycle Security Management |
+| **Scoring Logic** | CVSS 4.0 Standard Scoring | Advanced AI-assisted Scoring Helper |
+| **Decision Support** | Standard Decision Assistant | Pro Decision Assistant |
+| **Presets** | 3 Saved Configurations | 20 Saved Configurations |
+| **Visualization** | Basic Vulnerability Graph (Limited) | Advanced Graph & OWASP Top 10 Mapping |
+| **Data Export** | No Export | SVG, PNG, JPEG Chart Reports |
+| **Management** | Standalone Session | History, Editing & 5 Role Permissions |
+| **AI Integration** | None | Internal AI Scoring Helper |
 
 ---
 
@@ -33,7 +36,7 @@ Unlike traditional software distributions, **CVSSense** is delivered as a contai
 
 * **Encapsulation:** The source code and execution environment are securely packaged, preventing accidental modification and ensuring long-term stability.
 * **Consistency:** The application operates identically across different operating systems (Windows, macOS, Linux).
-* **Zero-Dependency Setup:** No manual installation of underlying runtimes is required on the host system.
+* **Zero-Dependency Setup:** No manual installation of underlying runtimes (e.g., Python, Node.js) is required on the host system.
 
 ---
 
