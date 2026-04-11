@@ -22,7 +22,7 @@ While this version is free to use, a **Professional Edition** is currently in de
 | **Primary Goal** | Trial & Basic Assessment | Full Lifecycle Security Management |
 | **Scoring Logic** | CVSS 4.0 Standard Scoring | Advanced AI-assisted Scoring Helper |
 | **Decision Support** | Standard Decision Assistant | Pro Decision Assistant |
-| **Presets** | 3 Saved Configurations | 20 Saved Configurations |
+| **Presets** | 5 Saved Configurations | 20 Saved Configurations |
 | **Visualization** | Basic Vulnerability Graph (Limited) | Advanced Graph & OWASP Top 10 Mapping |
 | **Data Export** | No Export | SVG, PNG, JPEG Chart Reports |
 | **Management** | Standalone Session | History, Editing & 5 Role Permissions |
