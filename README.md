@@ -4,14 +4,14 @@
 
 **CVSSense** is a private initiative developed to streamline the workflow of professional security assessments. This Community Edition serves as a first insight into the core logic of the tool, designed to provide immediate value to the security community.
 
----
+
 
 ## 📸 Demo
 
-![CVSSense Dashboard Preview](https://via.placeholder.com/800x450.png?text=Insert+App+Screenshot+Here)  
-*A look at the CVSS 4.0 scoring interface and decision support system.*
+<img src="https://github.com/user-attachments/assets/f4775260-0ecd-4088-86cb-8e1d2a58417d" width="100%" alt="CVSSense Dashboard Preview">
+*A look at the CVSS 4.0 scoring interface.*
 
----
+
 
 ## 📦 Installation
 
@@ -41,7 +41,7 @@ Once the container is successfully initialized, you can access the application t
 3. **Utilize Decision Support:** If unsure about a metric, refer to the built-in **Standard Decision Assistant** for guidance.
 4. **Save Configuration:** Store your result as one of your 5 available session presets for quick reference.
 
----
+
 
 ## ✨ Features
 
@@ -50,7 +50,7 @@ Once the container is successfully initialized, you can access the application t
 * **Containerized Stability:** Runs in an isolated environment, ensuring that host system updates don't break the tool.
 * **Visual Insights:** Includes a basic vulnerability graph to help visualize the impact of the score.
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -58,31 +58,43 @@ Once the container is successfully initialized, you can access the application t
 * **Standardization:** CVSS v4.0 Framework
 * **Architecture:** Secure Containerized Microservice
 
----
+
 
 ## 🤝 Feedback & Collaboration
 
 We value input from the security community to help refine CVSSense.
 
-* **Bug Reports & Suggestions:** Please email us at **[Your Email Address Here]**.
+* **Bug Reports & Suggestions:** Please email us at **CVSSsense@hotmail.com**.
 * **Professional Inquiries:** Contact us for details regarding the upcoming **Professional Edition**, featuring AI-assisted scoring and enterprise reporting.
 
 > [!IMPORTANT]
 > **Community Guidelines:** To maintain a productive exchange, we only respond to constructive and professional feedback.
 
----
 
-## 📄 License
 
-This software is released as the **CVSSense Community Edition**. 
-It is free to use for individual security assessments and trial purposes.
+## ⚖️ License & Terms
 
-© 2026 CVSSense Initiative. All rights reserved.
+CVSSense is proprietary software. By installing or using this application, you acknowledge that you have read and agree to be bound by the terms in the provided license documentation.
 
----
+### License Summary:
+* **Proprietary License:** CVSSense is owned exclusively by **K3res**. All rights, including source code, logic, and the "Decision Assistant" workflows, are reserved.
+* **Usage Tier (Community Edition):** You are granted a non-exclusive license for internal, non-commercial assessment purposes.
+* **Technical Limitations:** In this version, usage is limited to **five (5) saved presets**. Access to the AI Engine and OWASP Top 10 Integration is strictly prohibited and technically disabled.
+* **Restrictions:** Redistribution, modification, reverse engineering, or incorporating this logic into other products is strictly prohibited without prior written consent.
+
+### Third-Party Components:
+This product contains software components (including `cvss40.js`) developed by **FIRST.ORG, Inc., Red Hat, and contributors**, licensed under the **BSD 2-Clause License**.
+
+Detailed legal documents can be found in the `license` folder of this repository:
+* `license/EULA.md` – End User License Agreement
+* `license/CVSSense_licenses.md` – Proprietary License Details
+* `license/cvss40.js_licenses.txt` – Third-Party Notices & BSD License
 
 ## 🙌 Credits & Acknowledgments
 
 * **Inspiration:** Developed to support the tireless work of penetration testers and security analysts worldwide.
 * **Frameworks:** Built upon the standards provided by **FIRST.org** for CVSS 4.0.
 * **Special Thanks:** To the early testers who provided the initial data to calibrate the decision assistant.
+
+---
+© 2026 K3res | CVSSense Initiative. All rights reserved.
