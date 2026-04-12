@@ -8,7 +8,7 @@
 
 ## 📸 Demo
 
-![CVSSense Dashboard Preview](<img width="1661" height="941" alt="dasbaord" src="https://github.com/user-attachments/assets/f4775260-0ecd-4088-86cb-8e1d2a58417d" />)  
+<img src="https://github.com/user-attachments/assets/f4775260-0ecd-4088-86cb-8e1d2a58417d" width="100%" alt="CVSSense Dashboard Preview">
 *A look at the CVSS 4.0 scoring interface.*
 
 
@@ -74,16 +74,16 @@ We value input from the security community to help refine CVSSense.
 
 ## ⚖️ License & Terms
 
-CVSSense is proprietary software. [cite_start]By installing or using this application, you acknowledge that you have read and agree to be bound by the terms in the provided license documentation[cite: 6, 8, 10].
+CVSSense is proprietary software. By installing or using this application, you acknowledge that you have read and agree to be bound by the terms in the provided license documentation.
 
 ### License Summary:
-* **Proprietary License:** CVSSense is owned exclusively by **K3res**. [cite_start]All rights, including source code, logic, and the "Decision Assistant" workflows, are reserved[cite: 6, 10].
-* [cite_start]**Usage Tier (Community Edition):** You are granted a non-exclusive license for internal, non-commercial assessment purposes[cite: 8].
-* **Technical Limitations:** In this version, usage is limited to **three (3) saved presets**. [cite_start]Access to the AI Engine and OWASP Top 10 Integration is strictly prohibited and technically disabled[cite: 9].
-* [cite_start]**Restrictions:** Redistribution, modification, reverse engineering, or incorporating this logic into other products is strictly prohibited without prior written consent[cite: 11, 13, 15].
+* **Proprietary License:** CVSSense is owned exclusively by **K3res**. All rights, including source code, logic, and the "Decision Assistant" workflows, are reserved.
+* **Usage Tier (Community Edition):** You are granted a non-exclusive license for internal, non-commercial assessment purposes.
+* **Technical Limitations:** In this version, usage is limited to **five (5) saved presets**. Access to the AI Engine and OWASP Top 10 Integration is strictly prohibited and technically disabled.
+* **Restrictions:** Redistribution, modification, reverse engineering, or incorporating this logic into other products is strictly prohibited without prior written consent.
 
 ### Third-Party Components:
-[cite_start]This product contains software components (including `cvss40.js`) developed by **FIRST.ORG, Inc., Red Hat, and contributors**, licensed under the **BSD 2-Clause License**[cite: 1, 16].
+[cite_start]This product contains software components (including `cvss40.js`) developed by **FIRST.ORG, Inc., Red Hat, and contributors**, licensed under the **BSD 2-Clause License**.
 
 Detailed legal documents can be found in the `license` folder of this repository:
 * `license/EULA.md` – End User License Agreement
